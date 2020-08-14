@@ -1,3 +1,3 @@
 # WordsLSTM
 
-Tutorial Link: https://towardsdatascience.com/lstm-by-example-using-tensorflow-feb0c1968537
+Tutorial Link: https://medium.com/datadriveninvestor/deep-learning-lstm-for-sentiment-analysis-in-tensorflow-with-keras-api-92e62cde7626
